@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
 <h3 align="center">A passionate software engineering student in INSAT. I'm a data science and AI enthusiast. I'm a fast learner and enjoy picking up new technologies. I'm passionate about problem solving and competitive programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdibensalha&label=Profile%20views&color=0e75b6&style=flat" alt="mehdibensalha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdibensalha" alt="mehdibensalha" /></a> </p>
+
 
 - 🌱 I’m currently learning **Data Science**
 
