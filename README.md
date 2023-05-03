@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F311381761734186207%2F&psig=AOvVaw15QL9i5qat-11SZ62lZvmg&ust=1683235675003000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi779WL2v4CFQAAAAAdAAAAABAZ">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <h3 align="center">A passionate software engineering student in INSAT. I'm a data science and AI enthusiast. I'm a fast learner and enjoy picking up new technologies. I'm passionate about problem solving and competitive programming.</h3>
 
 
